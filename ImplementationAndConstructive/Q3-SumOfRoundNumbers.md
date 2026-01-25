@@ -136,7 +136,4 @@ int main() {
 * Numbers with zeros in between digits → skip zeros
 * Maximum input `n = 10⁴` → can be handled easily with this digit-wise approach
 
----
-
-This approach is simple, **O(number of digits)** per test case, and avoids unnecessary pre-stored arrays.
 

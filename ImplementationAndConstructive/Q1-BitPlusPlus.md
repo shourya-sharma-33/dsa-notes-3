@@ -116,8 +116,3 @@ int main() {
 * All increments → `x = n`
 * All decrements → `x = -n`
 * Mixed statements → `x` is difference between counts of `++` and `--`
-
----
-
-This is a **classic beginner-level implementation problem** focused on string checking and simple loops.
-

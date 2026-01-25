@@ -121,9 +121,3 @@ int main() {
 * Input `9999` → Output `9000`
 * Single-digit numbers → choose the smaller of the digit or its inversion.
 * Large numbers up to 10¹⁸ can be handled as strings to avoid integer overflow.
-
----
-
-If you want, I can also rewrite this with **two solutions**: one using **strings** (current) and another using **pure integer arithmetic** for practice. This makes your notes more comprehensive.
-
-Do you want me to do that?
