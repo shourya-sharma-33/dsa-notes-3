@@ -7,14 +7,13 @@ Find the **sum of first N numbers**
 
 ```
 
-1 + 2 + 3 + ... + N
+1  + 2 + 3 + ... + N
 
 ````
 
 ---
 
 ## 1. Using **Parameterised Recursion**
-
 ### Idea
 - Carry the **sum as a parameter**
 - Update sum at each recursive call
