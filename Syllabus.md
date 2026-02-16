@@ -1,9 +1,12 @@
 ## 📦 Arrays
 
-* Find Second Largest Element / Remove Duplicates from Sorted Array
+* Find Second Largest Element / Remove Duplicates from Sorted Array  
 * Rotate Array by K Places / Union & Intersection of Arrays / Move Zeros
 * Find Element Appearing Once / Missing Number / Max Consecutive 1s
 * Longest Subarray with Sum K
+
+# <----------------(DONE)---------------->
+
 * 2 Sum Problem (2 variations)
 * Sort 0s 1s 2s (Dutch National Flag)
 * Majority Element I (Moore’s Voting)
